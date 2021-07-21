@@ -1,3 +1,8 @@
+# For personal use in your PC please use Firefox and when you want to save image press F12 then use below command
+:screenshot --selector .item
+
+
+
 # My Mind
 
 ![Screenshot](screenshot.png)
